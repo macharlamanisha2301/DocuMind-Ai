@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+chat_memory.db
+Machine Learning.pdf
+rm/
+venv/
